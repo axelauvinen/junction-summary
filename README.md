@@ -5,8 +5,8 @@
 This is the sum up of everything we managed to create during Junction 2016 Hackathon
 
 ### Team:
- - Axel Auvinen
- - Leo Lahti
+- Axel Auvinen
+- Leo Lahti
 - Samu Saukkonen
 - Rosa Suominen
 
