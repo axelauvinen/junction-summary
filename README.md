@@ -27,4 +27,4 @@ NodeJS socket server to transmit data from enduser to another
 NodeJS server to collect sensor data, pushing it into RethinkDB and serving it to client
 
 ### reitti_evie
-Getting the shortest path utilizing Dijkstra's algorithm
+Getting the shortest path utilizing Dijkstra's algorithm. Done with Go
